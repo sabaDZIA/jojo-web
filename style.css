@@ -1,6 +1,5 @@
 
 body{
-    background-color: #B339D4;
     margin: 0;
     padding: 0;
     font-family: sans-seri;
@@ -109,44 +108,3 @@ section{
     top: 45%;
     left: 23.5%;
 }
-
-
-.joli{
-    position: absolute;
-    top: 110%;
-    left: 30%;
-
-}
-
-.citata{
-    position: absolute;
-    top: 150%;
-    left: 44%;
-}
-
-.ambavi{
-    position: absolute;
-    top: 210%;
-    left: 5%;
-}
-
-.fg{
-    position: absolute;
-    top: 215%;
-    left: 52%;
-}
-
-.part{
-    position: absolute;
-    top:267%;
-    right: 17%;
-     }
-    
-
-
-.info{
-    position: absolute;
-    top:305%;
-    right: 10%;
-}
-
